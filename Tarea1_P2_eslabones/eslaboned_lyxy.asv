@@ -1,0 +1,8 @@
+% inputs
+l1 = input("Valor de longitud de eslabon 1: ");
+l2 = input("Valor de longitud de eslabon 2: ");
+xf = input("Valor de coordenada x final: ");
+yf = input("Valor de coordenada y final: ");
+
+%bucle animkacion
+for 
